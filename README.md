@@ -18,3 +18,9 @@ git init
 ```git add .```
 3. To add a particular file
 ```git add [filename]```
+
+### Branches
+
+1. `git checkout -b [name-of-branch]` To create a new branch
+2. `git checkout [name-of-branch]` To switch to branch
+3. `git branch -l` To see all my branches (q to quit)
