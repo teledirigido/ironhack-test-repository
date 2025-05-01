@@ -19,4 +19,17 @@ git init
 3. To add a particular file
 ```git add [filename]```
 
-More content here....
+### Branches
+
+1. `git checkout -b [name-of-branch]` To create a new branch
+2. `git checkout [name-of-branch]` To switch to branch
+3. `git branch -l` To see all my branches (q to quit)
+
+
+MAIN ... keeps changing
+
+
+new-feature-5:
+if MAIN keeps updating and I want to keep working on new-feature-5 until is ready. The best option is to merge MAIN into new-feature-5.
+
+When new-feature-5 is ready then I merge into MAIN.
