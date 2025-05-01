@@ -8,5 +8,8 @@ This is my `first` repository.
 You have to do this command:  
 ```
 git init
+```
 
-fwefewwef
+To Do List
+- Learn what `git add .` means
+- Make `index.html` pretty again
